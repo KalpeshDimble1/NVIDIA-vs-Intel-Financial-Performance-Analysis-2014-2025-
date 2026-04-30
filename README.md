@@ -29,7 +29,7 @@ All financial data is sourced from **Macrotrends** ([macrotrends.net/stocks/char
 
 ## How to Use
 
-1. Download `Company_Performance_Analysis_.xlsx`
+1. Download `Company Performance Analysis..xlsx`
 2. Open in Microsoft Excel or Google Sheets
 3. The dashboard and summary sheets auto-update from the underlying data via formulas
 
